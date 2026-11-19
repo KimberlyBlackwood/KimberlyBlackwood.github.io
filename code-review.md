@@ -1,4 +1,4 @@
-x--
+---
 title: Code Review
 permalink: /code-review/
 ---
@@ -13,7 +13,9 @@ and data structures, and databases.
 ## Recordings
 
 https://youtu.be/_0W_C6T9B7Q
+
 https://youtu.be/YYfN4XOF1XA
+
 https://youtu.be/T8B2Kzze_HI
 
 
