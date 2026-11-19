@@ -17,3 +17,13 @@ This portfolio will showcase my growth in three areas:
 As I progress through CS-499, I will add my code review video, original
 and enhanced projects, reflection narratives, and professional
 self-assessment.
+
+
+## Code Review
+
+View my code review recordings and the planned enhancements
+for the artifacts selected for this ePortfolio.
+
+[View the Code Review page](https://kimberlyblackwood.github.io/code-review/)
+
+
